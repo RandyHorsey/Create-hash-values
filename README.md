@@ -13,8 +13,8 @@ Investigating whether two files are identical or different.
 
  <h4>
 Generating hashes for files: </h4>
-<img src="https://imgur.com/yZs1LA1.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/zE69nZX.png" height="65%" width="70%" alt="Security Audit"/>
  <h4>
 Comparing hashes: </h4>
-<img src="https://imgur.com/41MAdSU.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/xA9mx2Q.png" height="65%" width="70%" alt="Security Audit"/>
  <h4>
